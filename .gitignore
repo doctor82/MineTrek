@@ -1,20 +1,5 @@
-/bin/*
-/conf/*
-/docs/*
-/eclipse/*
-/forge/*
-/jars/*
-/lib/*
-/logs/*
-/modsrc/*
-/reobf/*
-/runtime/*
-/temp/*
-
-/src/minecraft/*
-/src/minecraft_server/*
-/src/common/*
-!/src/common/MineTrek
+/*
+!/src/common/MineTrekCore
 
 
 
